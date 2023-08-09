@@ -10,6 +10,10 @@ In this application I demonstrate my knowledge of:
 
 and it also serves to monitor the Ranking of First Names in Brazil according to the IBGE.
 
+## Screenshots
+
+![Screeshot 1](ranking_names_screen.png?raw=true "Screeshot 1")
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
