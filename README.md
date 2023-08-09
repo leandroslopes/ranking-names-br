@@ -10,6 +10,9 @@ In this application I demonstrate my knowledge of:
 
 and it also serves to monitor the Ranking of First Names in Brazil according to the IBGE.
 
+## DEMO
+
+* [Name Rankings](https://ranking-names-br.vercel.app/ "Name Rankings")
 ## Screenshots
 
 ![Screeshot 1](public/ranking_names_screen.png?raw=true "Screeshot 1")
