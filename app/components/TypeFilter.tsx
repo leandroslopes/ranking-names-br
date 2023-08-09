@@ -1,6 +1,6 @@
-"use client"
+'use client'
 
-import useTypeFilter from "../hooks/useTypeFilter"
+import { useTypeFilterContext } from "../context"
 
 interface TypeFilterProps {
 
@@ -8,11 +8,7 @@ interface TypeFilterProps {
 
 export function TypeFilter(props : TypeFilterProps) {
 
-    const {
-        filter,
-        setFilter,
-        onFilterChange
-    } = useTypeFilter()
+    const { filter, onFilterChange } = useTypeFilterContext()
 
     return(
         <div className={`
