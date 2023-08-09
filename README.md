@@ -12,7 +12,7 @@ and it also serves to monitor the Ranking of First Names in Brazil according to 
 
 ## Screenshots
 
-![Screeshot 1](ranking_names_screen.png?raw=true "Screeshot 1")
+![Screeshot 1](public/ranking_names_screen.png?raw=true "Screeshot 1")
 
 ## Getting Started
 
